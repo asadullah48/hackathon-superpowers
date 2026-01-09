@@ -1,0 +1,41 @@
+{
+  "name": "hackathon-superpower",
+  "displayName": "Hackathon Superpowers",
+  "description": "Production-ready Claude Code skills for hackathons and cloud-native development",
+  "version": "1.0.0",
+  "author": "asadullah48",
+  "repository": "https://github.com/asadullah48/hackathon-superpower",
+  "license": "MIT",
+  "categories": ["productivity", "development", "infrastructure"],
+  "keywords": [
+    "hackathon",
+    "kubernetes",
+    "k8s",
+    "cloud-native",
+    "dapr",
+    "kafka",
+    "mcp",
+    "caps",
+    "agents",
+    "documentation"
+  ],
+  "skills": [
+    {
+      "path": "skills/agents-md-generator",
+      "name": "agents-md-generator",
+      "enabled": true
+    },
+    {
+      "path": "skills/caps-format-validator",
+      "name": "caps-format-validator",
+      "enabled": true
+    },
+    {
+      "path": "skills/kubernetes-health-check",
+      "name": "kubernetes-health-check",
+      "enabled": true
+    }
+  ],
+  "homepage": "https://github.com/asadullah48/hackathon-superpower",
+  "bugs": "https://github.com/asadullah48/hackathon-superpower/issues"
+}
