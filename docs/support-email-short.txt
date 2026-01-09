@@ -1,0 +1,27 @@
+To: support@anthropic.com
+Subject: API Access Paused - Review Request
+From: asadullahshafique@hotmail.com
+
+---
+
+Hi Anthropic Team,
+
+My Claude Code API access has been paused (error: "feedback quality doesn't meet threshold"). 
+
+ACCOUNT: asadullahshafique@hotmail.com
+USE CASE: Panaversity student building Claude skills for Hackathon III
+PROJECT: https://github.com/asadullah48/hackathon-superpower
+
+I've been developing open-source Claude Desktop skills and CAPS playbooks for cloud-native applications. The VS Code extension API pause is blocking my hackathon development.
+
+Could you please:
+1. Review my account status
+2. Explain what triggered the pause
+3. Advise on restoration steps
+
+I'm committed to following all guidelines and maintaining quality standards.
+
+Thank you,
+Asadullah
+Karachi, Pakistan
+
